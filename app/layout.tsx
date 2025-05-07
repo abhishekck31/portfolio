@@ -10,6 +10,9 @@ const sora = Sora({
 export const metadata = {
   title: "Abhishek CK | Creative Developer",
   description: "Portfolio of Abhishek CK - B.Tech IT Student, Web Developer, SEO Specialist & Social Media Strategist",
+  icons: {
+    icon: "/favicon_io/favicon.ico", // path relative to /public
+  },
 }
 
 export default function RootLayout({
