@@ -43,8 +43,8 @@ export function GeometricProjects() {
       description: "Building a platform for a local business to rent cameras and equipment.",
       image: "/placeholder.svg?height=600&width=800&text=Book+My+DSLR",
       tags: ["React", "Next.js", "Tailwind CSS", "Firebase"],
-      link: "",
-      github: "",
+      link: "https://github.com/abhishekck31/bookmydslr",
+      github: "https://github.com/abhishekck31/bookmydslr",
       details:
         "Developing a full-featured camera and equipment rental platform for a local photography business. The application includes inventory management, booking system, user authentication, and payment integration. Responsive design ensures a seamless experience across all devices.",
       type: "Client Project",
