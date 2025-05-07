@@ -42,10 +42,10 @@ export function GeometricFooter() {
           </motion.div>
           <div className="flex items-center gap-4">
             {[
-              { icon: Linkedin, href: "#" },
-              { icon: Github, href: "#" },
-              { icon: Instagram, href: "#" },
-              { icon: Mail, href: "mailto:abhishek@example.com" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/abhishekck" },
+              { icon: Github, href: "https://github.com/abhishekck31" },
+              { icon: Instagram, href: "https://instagram.com/theaxbhi" },
+              { icon: Mail, href: "mailto:abhishekkannur31@gmail.com" },
             ].map((item, index) => (
               <motion.div
                 key={index}
