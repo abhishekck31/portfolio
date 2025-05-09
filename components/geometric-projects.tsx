@@ -41,7 +41,7 @@ export function GeometricProjects() {
       id: 2,
       title: "Book My DSLR",
       description: "Building a platform for a local business to rent cameras and equipment.",
-      image: "/bookmydslr.png?height=600&width=800&text=Book+My+DSLR",
+      image: "/projects/bookmydslrthumbnail.png?height=600&width=800&text=Book+My+DSLR",
       tags: ["React", "Next.js", "Tailwind CSS", "Firebase"],
       link: "https://www.bookmydslr.com/",
       github: "https://github.com/abhishekck31/bookmydslr",
