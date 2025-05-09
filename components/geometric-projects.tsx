@@ -39,11 +39,11 @@ export function GeometricProjects() {
     },
     {
       id: 2,
-      title: "Book My DSLR (Under Development)",
+      title: "Book My DSLR",
       description: "Building a platform for a local business to rent cameras and equipment.",
-      image: "/placeholder.svg?height=600&width=800&text=Book+My+DSLR",
+      image: "/bookmydslr.png?height=600&width=800&text=Book+My+DSLR",
       tags: ["React", "Next.js", "Tailwind CSS", "Firebase"],
-      link: "https://github.com/abhishekck31/bookmydslr",
+      link: "https://www.bookmydslr.com/",
       github: "https://github.com/abhishekck31/bookmydslr",
       details:
         "Developing a full-featured camera and equipment rental platform for a local photography business. The application includes inventory management, booking system, user authentication, and payment integration. Responsive design ensures a seamless experience across all devices.",
