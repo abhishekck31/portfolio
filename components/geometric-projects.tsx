@@ -94,7 +94,7 @@ export function GeometricProjects() {
       link: "https://www.rkdoor.com/",
       github: "https://github.com/abhishekck31/",
       details:
-        "Developed a modern and responsive website for Suyog Infra Solutions, an interior and infrastructure company. The site features a clean, professional design with interactive elements, project showcases, and contact forms. Implemented SEO best practices to improve visibility and organic traffic.",
+        "Developed a modern and responsive website for RK Doors, a door company. The site features a clean, professional design with interactive elements, project showcases, and contact forms. Implemented SEO best practices to improve visibility and organic traffic.",
       type: "Client Project",
     },
   ]
