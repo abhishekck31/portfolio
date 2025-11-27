@@ -34,7 +34,7 @@ export function GeometricProjects() {
       link: "https://nageshpabbewar.com/",
       github: "https://github.com/abhishekck31/",
       details:
-        "Designed and developed a modern, responsive website for Annapoornaa Interio, a construction and interior design company. The site features a clean, professional design with interactive elements, project showcases, and contact forms. Implemented SEO best practices to improve visibility and organic traffic.",
+        "Developed a modern and responsive portfolio website for a motion designer, focusing on showcasing their creative work and professional services. The site utilizes Next.js for server-side rendering and optimized performance, React for a dynamic user interface, Tailwind CSS for streamlined styling, and GSAP for fluid and engaging animations, providing an immersive experience for visitors.",
       type: "Client Project",
     },
     {
@@ -46,7 +46,7 @@ export function GeometricProjects() {
       link: "https://www.bookmydslr.com/",
       github: "https://github.com/abhishekck31/bookmydslr",
       details:
-        "Developing a full-featured camera and equipment rental platform for a local photography business. The application includes inventory management, booking system, user authentication, and payment integration. Responsive design ensures a seamless experience across all devices.",
+        "Developed a full-featured camera and equipment rental platform for a local photography business. The application includes inventory management, booking system, user authentication, and payment integration. Responsive design ensures a seamless experience across all devices.",
       type: "Client Project",
     },
     {
@@ -72,6 +72,30 @@ export function GeometricProjects() {
       details:
         "Developed an interactive timeline visualization tool for educational purposes during a hackathon at SJCIT. The application allows users to explore historical events, scientific discoveries, and technological advancements through an intuitive, interactive timeline interface. Implemented using D3.js for data visualization and React for the user interface.",
       type: "Hackathon Project",
+    },
+    {
+      id: 5,
+      title: "Suyog Infra Solutions",
+      description: "Interior and Infrastructure company website.",
+      image: "/projects/suyoginfra.png?height=600&width=800&text=Suyog+Infra+Solutions",
+      tags: ["React", "Tailwind CSS",],
+      link: "https://www.suyoginfrasolutions.com/",
+      github: "https://github.com/abhishekck31/",
+      details:
+        "Developed a modern and responsive website for Suyog Infra Solutions, an interior and infrastructure company. The site features a clean, professional design with interactive elements, project showcases, and contact forms. Implemented SEO best practices to improve visibility and organic traffic.",
+      type: "Client Project",
+    },
+    {
+      id: 6,
+      title: "RK Doors - Door Company Website",
+      description: "Door Company Website.",
+      image: "/projects/rkdoor.png?height=600&width=800&text=RK+Doors",
+      tags: ["React", "Tailwind CSS",],
+      link: "https://www.rkdoor.com/",
+      github: "https://github.com/abhishekck31/",
+      details:
+        "Developed a modern and responsive website for Suyog Infra Solutions, an interior and infrastructure company. The site features a clean, professional design with interactive elements, project showcases, and contact forms. Implemented SEO best practices to improve visibility and organic traffic.",
+      type: "Client Project",
     },
   ]
 
