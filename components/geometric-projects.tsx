@@ -27,11 +27,11 @@ export function GeometricProjects() {
   const projects: Project[] = [
     {
       id: 1,
-      title: "Annapoornaa Interio",
-      description: "A sleek interior & construction company website for a real-world client.",
-      image: "/projects/annapoornaainteriothumbnail.png?height=600&width=800&text=Annapoornaa+Interio",
-      tags: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
-      link: "https://annapoornaainterio.com",
+      title: "Portfolio Site of Motion Designer",
+      description: "A portfolio site for a motion designer, showcasing their work and services.",
+      image: "/projects/nageshportfolio.png?height=600&width=800&text=Annapoornaa+Interio",
+      tags: ["React", "Next.js", "Tailwind CSS", "GSAP"],
+      link: "https://nageshpabbewar.com/",
       github: "https://github.com/abhishekck31/",
       details:
         "Designed and developed a modern, responsive website for Annapoornaa Interio, a construction and interior design company. The site features a clean, professional design with interactive elements, project showcases, and contact forms. Implemented SEO best practices to improve visibility and organic traffic.",
